@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+
+    <empleado numero_empleado="1" nombre="Angel" apellidos="Labrador" type="BECARIO"/>
+    <empleado numero_empleado="2" nombre="Pepe" apellidos="Perez" type="EMPLEADO"/>
+    <empleado numero_empleado="3" nombre="Maria" apellidos="Martinez" type="EXPERTO"/>
+
+    <becario id="1" horas_realizadas="200"/>
+    <empleado id="2" sueldo="1234"/>
+    <experto id="3" sueldo="1234567"/>
+
+</dataset>
